@@ -9,4 +9,4 @@
 <code>📦 Tech stack: Javascript, React, MobX, TypeScript</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@sashaholovenko](https://telegram.me/sashaholovenko)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [sasha155s49@gmail.com](mailto:your-email)</code>
