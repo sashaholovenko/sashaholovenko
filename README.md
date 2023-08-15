@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IP-94</code>
+<code>🎓 Past Student: KPI / IP-94</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: React Js Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
